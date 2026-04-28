@@ -1,0 +1,30 @@
+{
+  "name": "portfolio-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+      "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MerishaCrowl/portfolio-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MerishaCrowl/portfolio-site/issues"
+  },
+  "homepage": "https://github.com/MerishaCrowl/portfolio-site#readme",
+  "dependencies": {
+    "@tweenjs/tween.js": "^25.0.0",
+    "gsap": "^3.15.0",
+    "three": "^0.184.0",
+    "vite": "^8.0.10"
+  }
+}

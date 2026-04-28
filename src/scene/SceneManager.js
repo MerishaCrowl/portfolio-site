@@ -35,7 +35,7 @@ export class SceneManager {
         this.isRunning = false;
         this.isIntroComplete = false;
         this.lightsOn = false;
-        this.clock = new THREE.Clock();
+        this.clock = new THREE.Timer();
         
         // Callbacks
         this.onProjectClick = null;

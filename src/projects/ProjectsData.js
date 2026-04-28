@@ -66,28 +66,28 @@ export const projects = [
     }
 ];
 
-export const projects = [
+//export const projects = [
     // ... existing projects
-    {
-        id: 'new-project',
-        title: 'New Project Name',
-        tag: 'Category',
-        description: 'Description here...',
-        technologies: ['Tech1', 'Tech2'],
-        demoUrl: 'https://...',
-        codeUrl: '[github.com](https://github.com/)',
-        previewImage: '/images/new-project.jpg',
-        sceneObject: {
-            type: 'custom', // Add new types in ProjectObject.js
-            position: { x: 10, y: 0, z: -30 },
-            haloColor: 0x00ff00,
-        },
-        evolution: {
-            description: 'What this project represents',
-            ageProgression: 0.75,
-        }
-    }
-];
+ //   {
+ //      id: 'new-project',
+  //      title: 'New Project Name',
+ //       tag: 'Category',
+ //       description: 'Description here...',
+ //       technologies: ['Tech1', 'Tech2'],
+//        demoUrl: 'https://...',
+  //      codeUrl: '[github.com](https://github.com/)',
+   //     previewImage: '/images/new-project.jpg',
+ //       sceneObject: {
+ //           type: 'custom', // Add new types in ProjectObject.js
+ //           position: { x: 10, y: 0, z: -30 },
+  //          haloColor: 0x00ff00,
+ //       },
+ //       evolution: {
+   //         description: 'What this project represents',
+ //           ageProgression: 0.75,
+ //       }
+ //   }
+//];
 
 /**
  * Easter eggs and hidden elements that appear when lights turn on
